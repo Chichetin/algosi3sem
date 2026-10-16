@@ -1,0 +1,22 @@
+# IDE (CLion / PyCharm)
+.idea/
+*.iml
+
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+CMakeLists.txt
+
+*.o
+*.out
+*.exe
+YYTrenirovki/2_B
+
+__pycache__/
+test.py
+*.pyc
+.venv/
+venv/
+
+.DS_Store
